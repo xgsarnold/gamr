@@ -1,6 +1,8 @@
 Rails.application.routes.draw do
 
 
+  get 'dashboard/show'
+
   post 'session/login'
   delete 'session/logout'
 

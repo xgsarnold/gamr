@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class StreamTest < ActiveSupport::TestCase
+class TwitchTest < ActiveSupport::TestCase
   # test "the truth" do
   #   assert true
   # end

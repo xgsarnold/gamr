@@ -5,7 +5,7 @@ class DashboardController < ApplicationController
   end
 
   def home
-    @featured = Twitch.games.top(limit: 100).shuffle.take(4)
+    @featured = Twitch.games.top(limit: 20).shuffle.take(4)
     # @featured = Twitch.games.find(name: "Destiny")
   end
 

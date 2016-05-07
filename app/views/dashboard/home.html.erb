@@ -1,0 +1,11 @@
+<h1>Welcome to GAM-R</h1>
+<p>Explore new games!</p>
+
+<div>
+  <p><%= @featured.map(&:name) %><p>
+</div>
+
+<div>
+  <%= text_field_tag :search, params[:game], placeholder: "Search games here" %>
+  <%= submit_tag "Search" %>
+</div>

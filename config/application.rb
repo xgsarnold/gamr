@@ -23,6 +23,11 @@ module Gamr
     # Do not swallow errors in after_commit/after_rollback callbacks.
     config.active_record.raise_in_transactional_callbacks = true
 
+    Twitch.configure do |config|
+      config.client_id = ENV['TWITCH_KEY']
+      config.api = Twitch::V2
+    end
 
+    # streams = Twitch.streams.featured(:limit => 10)
   end
 end

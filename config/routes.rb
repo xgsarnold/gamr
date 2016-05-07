@@ -1,7 +1,8 @@
 Rails.application.routes.draw do
 
-
-  get 'dashboard/show'
+  get 'dashboard/games'
+  get 'dashboard/home'
+  get 'dashboard/game'
 
   post 'session/login'
   delete 'session/logout'

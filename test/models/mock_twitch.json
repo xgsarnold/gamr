@@ -1,0 +1,179 @@
+{
+  "games": [
+    {
+      "id": 280721,
+      "name": "Destiny",
+      "giantbomb_id": 36067,
+      "popularity": 1268,
+      "box_images": {
+        "large_url": "https://static-cdn.jtvnw.net/ttv-boxart/Destiny-272x380.jpg",
+        "medium_url": "https://static-cdn.jtvnw.net/ttv-boxart/Destiny-136x190.jpg",
+        "small_url": "https://static-cdn.jtvnw.net/ttv-boxart/Destiny-52x72.jpg",
+        "template_url": "https://static-cdn.jtvnw.net/ttv-boxart/Destiny-{width}x{height}.jpg"
+        },
+      "logo_images": {
+        "large_url": "https://static-cdn.jtvnw.net/ttv-logoart/Destiny-240x144.jpg",
+        "medium_url": "https://static-cdn.jtvnw.net/ttv-logoart/Destiny-120x72.jpg",
+        "small_url": "https://static-cdn.jtvnw.net/ttv-logoart/Destiny-60x36.jpg",
+        "template_url": "https://static-cdn.jtvnw.net/ttv-logoart/Destiny-{width}x{height}.jpg"
+        },
+      "streams": {
+        "338": "https://www.twitch.tv/planet_destiny",
+        "426": "https://www.twitch.tv/kjhovey",
+        "799": "https://www.twitch.tv/ms5000watts",
+        "1124": "https://www.twitch.tv/luckyy_and_buttwipe",
+        "2332": "https://www.twitch.tv/realkraftyy"
+      }
+    },
+    {
+      "id": 19949,
+      "name": "Destiny of the Doctors",
+      "giantbomb_id": 21932,
+      "popularity": 1,
+      "box_images": {
+        "large_url": "https://static-cdn.jtvnw.net/ttv-boxart/Destiny%20of%20the%20Doctors-272x380.jpg",
+        "medium_url": "https://static-cdn.jtvnw.net/ttv-boxart/Destiny%20of%20the%20Doctors-136x190.jpg",
+        "small_url": "https://static-cdn.jtvnw.net/ttv-boxart/Destiny%20of%20the%20Doctors-52x72.jpg",
+        "template_url": "https://static-cdn.jtvnw.net/ttv-boxart/Destiny%20of%20the%20Doctors-{width}x{height}.jpg"
+        },
+      "logo_images": {
+        "large_url": "https://static-cdn.jtvnw.net/ttv-logoart/Destiny%20of%20the%20Doctors-240x144.jpg",
+        "medium_url": "https://static-cdn.jtvnw.net/ttv-logoart/Destiny%20of%20the%20Doctors-120x72.jpg",
+        "small_url": "https://static-cdn.jtvnw.net/ttv-logoart/Destiny%20of%20the%20Doctors-60x36.jpg",
+        "template_url": "https://static-cdn.jtvnw.net/ttv-logoart/Destiny%20of%20the%20Doctors-{width}x{height}.jpg"
+        },
+      "streams": {
+        "338": "https://www.twitch.tv/planet_destiny",
+        "426": "https://www.twitch.tv/kjhovey",
+        "799": "https://www.twitch.tv/ms5000watts",
+        "1124": "https://www.twitch.tv/luckyy_and_buttwipe",
+        "2332": "https://www.twitch.tv/realkraftyy"
+      }
+    },
+    {
+      "id": 21940,
+      "name": "Destiny Links",
+      "giantbomb_id": 24225,
+      "popularity": 1,
+      "box_images": {
+        "large_url": "https://static-cdn.jtvnw.net/ttv-boxart/Destiny%20Links-272x380.jpg",
+        "medium_url": "https://static-cdn.jtvnw.net/ttv-boxart/Destiny%20Links-136x190.jpg",
+        "small_url": "https://static-cdn.jtvnw.net/ttv-boxart/Destiny%20Links-52x72.jpg",
+        "template_url": "https://static-cdn.jtvnw.net/ttv-boxart/Destiny%20Links-{width}x{height}.jpg"
+      },
+      "logo_images": {
+        "large_url": "https://static-cdn.jtvnw.net/ttv-logoart/Destiny%20Links-240x144.jpg",
+        "medium_url": "https://static-cdn.jtvnw.net/ttv-logoart/Destiny%20Links-120x72.jpg",
+        "small_url": "https://static-cdn.jtvnw.net/ttv-logoart/Destiny%20Links-60x36.jpg",
+        "template_url": "https://static-cdn.jtvnw.net/ttv-logoart/Destiny%20Links-{width}x{height}.jpg"
+      },
+      "streams": {
+        "338": "https://www.twitch.tv/planet_destiny",
+        "426": "https://www.twitch.tv/kjhovey",
+        "799": "https://www.twitch.tv/ms5000watts",
+        "1124": "https://www.twitch.tv/luckyy_and_buttwipe",
+        "2332": "https://www.twitch.tv/realkraftyy"
+      }
+    },
+    {
+      "id": 1482,
+      "name": "Destiny of an Emperor",
+      "giantbomb_id": 1624,
+      "popularity": 1,
+      "box_images": {
+        "large_url": "https://static-cdn.jtvnw.net/ttv-boxart/Destiny%20of%20an%20Emperor-272x380.jpg",
+        "medium_url": "https://static-cdn.jtvnw.net/ttv-boxart/Destiny%20of%20an%20Emperor-136x190.jpg",
+        "small_url": "https://static-cdn.jtvnw.net/ttv-boxart/Destiny%20of%20an%20Emperor-52x72.jpg",
+        "template_url": "https://static-cdn.jtvnw.net/ttv-boxart/Destiny%20of%20an%20Emperor-{width}x{height}.jpg"
+      },
+      "logo_images": {
+        "large_url": "https://static-cdn.jtvnw.net/ttv-logoart/Destiny%20of%20an%20Emperor-240x144.jpg",
+        "medium_url": "https://static-cdn.jtvnw.net/ttv-logoart/Destiny%20of%20an%20Emperor-120x72.jpg",
+        "small_url": "https://static-cdn.jtvnw.net/ttv-logoart/Destiny%20of%20an%20Emperor-60x36.jpg",
+        "template_url": "https://static-cdn.jtvnw.net/ttv-logoart/Destiny%20of%20an%20Emperor-{width}x{height}.jpg"
+      },
+      "streams": {
+        "338": "https://www.twitch.tv/planet_destiny",
+        "426": "https://www.twitch.tv/kjhovey",
+        "799": "https://www.twitch.tv/ms5000watts",
+        "1124": "https://www.twitch.tv/luckyy_and_buttwipe",
+        "2332": "https://www.twitch.tv/realkraftyy"
+      }
+    },
+    {
+      "id": 369558,
+      "name": "Destiny of Spirits",
+      "giantbomb_id": 42893,
+      "popularity": 0,
+      "box_images": {
+        "large_url": "https://static-cdn.jtvnw.net/ttv-boxart/Destiny%20of%20Spirits-272x380.jpg",
+        "medium_url": "https://static-cdn.jtvnw.net/ttv-boxart/Destiny%20of%20Spirits-136x190.jpg",
+        "small_url": "https://static-cdn.jtvnw.net/ttv-boxart/Destiny%20of%20Spirits-52x72.jpg",
+        "template_url": "https://static-cdn.jtvnw.net/ttv-boxart/Destiny%20of%20Spirits-{width}x{height}.jpg"
+      },
+      "logo_images": {
+        "large_url": "https://static-cdn.jtvnw.net/ttv-logoart/Destiny%20of%20Spirits-240x144.jpg",
+        "medium_url": "https://static-cdn.jtvnw.net/ttv-logoart/Destiny%20of%20Spirits-120x72.jpg",
+        "small_url": "https://static-cdn.jtvnw.net/ttv-logoart/Destiny%20of%20Spirits-60x36.jpg",
+        "template_url": "https://static-cdn.jtvnw.net/ttv-logoart/Destiny%20of%20Spirits-{width}x{height}.jpg"
+      },
+      "streams": {
+        "338": "https://www.twitch.tv/planet_destiny",
+        "426": "https://www.twitch.tv/kjhovey",
+        "799": "https://www.twitch.tv/ms5000watts",
+        "1124": "https://www.twitch.tv/luckyy_and_buttwipe",
+        "2332": "https://www.twitch.tv/realkraftyy"
+      }
+    },
+    {
+      "id": 13694,
+      "name": "Destiny Architect",
+      "giantbomb_id": 14927,
+      "popularity": 0,
+      "box_images": {
+        "large_url": "https://static-cdn.jtvnw.net/ttv-boxart/Destiny%20Architect-272x380.jpg",
+        "medium_url": "https://static-cdn.jtvnw.net/ttv-boxart/Destiny%20Architect-136x190.jpg",
+        "small_url": "https://static-cdn.jtvnw.net/ttv-boxart/Destiny%20Architect-52x72.jpg",
+        "template_url": "https://static-cdn.jtvnw.net/ttv-boxart/Destiny%20Architect-{width}x{height}.jpg"
+      },
+      "logo_images": {
+        "large_url": "https://static-cdn.jtvnw.net/ttv-logoart/Destiny%20Architect-240x144.jpg",
+        "medium_url": "https://static-cdn.jtvnw.net/ttv-logoart/Destiny%20Architect-120x72.jpg",
+        "small_url": "https://static-cdn.jtvnw.net/ttv-logoart/Destiny%20Architect-60x36.jpg",
+        "template_url": "https://static-cdn.jtvnw.net/ttv-logoart/Destiny%20Architect-{width}x{height}.jpg"
+      },
+      "streams": {
+        "338": "https://www.twitch.tv/planet_destiny",
+        "426": "https://www.twitch.tv/kjhovey",
+        "799": "https://www.twitch.tv/ms5000watts",
+        "1124": "https://www.twitch.tv/luckyy_and_buttwipe",
+        "2332": "https://www.twitch.tv/realkraftyy"
+      }
+    },
+    {
+      "id": 491442,
+      "name": "Destiny 2 (working title)",
+      "giantbomb_id": 52647,
+      "popularity": 0,
+      "box_images": {
+        "large_url": "https://static-cdn.jtvnw.net/ttv-boxart/Destiny%202%20%28working%20title%29-272x380.jpg",
+        "medium_url": "https://static-cdn.jtvnw.net/ttv-boxart/Destiny%202%20%28working%20title%29-136x190.jpg",
+        "small_url": "https://static-cdn.jtvnw.net/ttv-boxart/Destiny%202%20%28working%20title%29-52x72.jpg",
+        "template_url": "https://static-cdn.jtvnw.net/ttv-boxart/Destiny%202%20%28working%20title%29-{width}x{height}.jpg"
+      },
+      "logo_images": {
+        "large_url": "https://static-cdn.jtvnw.net/ttv-logoart/Destiny%202%20%28working%20title%29-240x144.jpg",
+        "medium_url": "https://static-cdn.jtvnw.net/ttv-logoart/Destiny%202%20%28working%20title%29-120x72.jpg",
+        "small_url": "https://static-cdn.jtvnw.net/ttv-logoart/Destiny%202%20%28working%20title%29-60x36.jpg",
+        "template_url": "https://static-cdn.jtvnw.net/ttv-logoart/Destiny%202%20%28working%20title%29-{width}x{height}.jpg"
+      },
+      "streams": {
+        "338": "https://www.twitch.tv/planet_destiny",
+        "426": "https://www.twitch.tv/kjhovey",
+        "799": "https://www.twitch.tv/ms5000watts",
+        "1124": "https://www.twitch.tv/luckyy_and_buttwipe",
+        "2332": "https://www.twitch.tv/realkraftyy"
+      }
+    }
+  ]
+}

@@ -2,8 +2,7 @@ class SessionController < ApplicationController
   def login
     user = User.find_by_email(params[:email])
     if user && user.authenticate(params[:password])
-      session_token = SessionToken.new(user_id: user.id)
-      if session_token.save
+      if user.generate_token
         redirect_to dashboard_path
         notice: "Login successful"
       else

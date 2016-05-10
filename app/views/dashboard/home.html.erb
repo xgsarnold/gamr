@@ -9,3 +9,12 @@
   <%= text_field_tag :search, params[:game], placeholder: "Search games here" %>
   <%= submit_tag "Search" %>
 </div>
+
+<%= form_tag 'game_path' %>
+  <%= autocomplete_field_tag :name, '', autocomplete_game_name_dashboard_path, :size => 1118 %>
+  <%= submit_tag "Search" %>
+<% end %>
+
+
+
+<%= text_field_tag :search, params[:search], class: "search-query", placeholder: "United States", type: "search", data: {autocomplete: autocomplete_game_name_users_path} %>

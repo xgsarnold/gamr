@@ -3,6 +3,7 @@ Rails.application.routes.draw do
   get 'dashboard/games'
   get 'dashboard/home'
   get 'dashboard/game'
+  get 'dashboard/autocomplete_game_name'
 
   post 'session/login'
   delete 'session/logout'

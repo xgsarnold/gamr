@@ -14,6 +14,8 @@ gem 'coffee-rails', '~> 4.1.0'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
+# jQuery autocomplete dependency
+gem 'rails4-autocomplete'
 # jQuery UI dependency.
 gem 'jquery-ui-rails'
 # Use jquery as the JavaScript library
@@ -27,8 +29,6 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 # Use ActiveModel has_secure_password
 gem 'bcrypt', '~> 3.1.7'
-
-gem 'rails4-autocomplete'
 
 # Use Unicorn as the app server
 # gem 'unicorn'

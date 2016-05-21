@@ -1,5 +1,8 @@
 Rails.application.routes.draw do
 
+  root 'games#index'
+  get 'games/autocomplete_game_name'
+  resources :games
   get 'dashboard/games'
   get 'dashboard/home'
   get 'dashboard/game'

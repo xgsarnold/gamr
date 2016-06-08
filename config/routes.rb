@@ -1,14 +1,11 @@
 Rails.application.routes.draw do
 
   root 'games#index'
-  # get 'games/autocomplete_game_name'
-  get :autocomplete_game_name, :on => :collection
   resources :games
 
   get 'dashboard/games'
   get 'dashboard/home'
   get 'dashboard/game'
-  # get 'dashboard/autocomplete_game_name'
 
   post 'session/login'
   delete 'session/logout'

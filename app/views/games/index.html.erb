@@ -7,11 +7,3 @@
   <%= text_field_tag :search, params[:search], class: "search-query", placeholder: "Game Name", type: "search", data: {autocomplete: games_autocomplete_game_name_path} %>
   <%= submit_tag "Search" %>
 <%end%>
-
-
-<script type="text/javascript" charset="utf-8">
-  $('#food_name').bind('railsAutocomplete.select', function(event, data){
-    /* Do something here */
-    alert("woot");
-  });
-</script>

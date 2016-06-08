@@ -14,8 +14,8 @@ gem 'coffee-rails', '~> 4.1.0'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
-# jQuery autocomplete dependency
-gem 'rails4-autocomplete'
+# searchkick
+gem 'searchkick'
 # jQuery UI dependency.
 gem 'jquery-ui-rails'
 # Use jquery as the JavaScript library

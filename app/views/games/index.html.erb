@@ -3,7 +3,6 @@
 <h1>Listing Games</h1>
 
 <%= form_tag(game_path(name: ), :method => "get", id: "search-form") do %>
-<!-- text field tag=action,args,identifier,placeholdertext... -->
   <%= text_field_tag :search, params[:search], class: "search-query", placeholder: "Game Name", type: "search", data: {autocomplete: games_autocomplete_game_name_path} %>
   <%= submit_tag "Search" %>
 <%end%>

@@ -13,11 +13,10 @@
 //= require jquery
 //= require jquery_ujs
 //= require jquery-ui
-//= require jquery-ui/autocomplete
 //= require autocomplete-rails
 //= require turbolinks
 //= require_tree .
 
-$('#search').bind('railsAutocomplete.select', function(event, data){
-$('#search-form').submit()
-});
+// $('#search').bind('railsAutocomplete.select', function(event, data){
+// $('#search-form').submit()
+// });

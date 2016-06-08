@@ -2,7 +2,11 @@
 
 <h1>Listing Games</h1>
 
-<%= form_tag(game_path(name: ), :method => "get", id: "search-form") do %>
-  <%= text_field_tag :search, params[:search], class: "search-query", placeholder: "Game Name", type: "search", data: {autocomplete: games_autocomplete_game_name_path} %>
-  <%= submit_tag "Search" %>
+<%= form_tag games_path, class: "form-inline", :method => "get" do %>
+  <script>
+    .form-group
+  </script>
+  <%= text_field_tag :query, params[:query], class: "form-control", placeholder: "Game Name" %>
+  <%= submit_tag "Search", class: "btn btn-primary" %>
+  <%= link_to "Clear", games_path, class: "btn btn-primary" if params[:query].present? %>
 <%end%>

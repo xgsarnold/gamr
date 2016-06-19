@@ -1,6 +1,10 @@
 class GamesController < ApplicationController
   before_action :set_game, only: [:show, :edit, :update, :destroy]
 
+  def autocomplete
+    render json: Book.search(params[:query], autocomplete: true, limit: 10).map(&:title)
+  end
+
   # GET /games
   # GET /games.json
   def index

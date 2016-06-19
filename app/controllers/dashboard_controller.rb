@@ -1,5 +1,5 @@
 class DashboardController < ApplicationController
-  autocomplete :game, :name, :full => true
+
 
   def games
     @games = Twitch.games.top(limit: 100000).map(&:name).sort_by {|game| game}

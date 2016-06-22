@@ -1,3 +1,3 @@
 class Game < ActiveRecord::Base
-  searchkick autocomplete: ['name']
+  searchkick autocomplete: ['title']
 end

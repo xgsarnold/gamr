@@ -2,6 +2,7 @@ Rails.application.routes.draw do
 
   root 'games#index'
   resources :games
+  get 'games/autocomplete'
 
   get 'dashboard/home'
 
